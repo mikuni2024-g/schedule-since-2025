@@ -44,9 +44,9 @@ cons.
 		
 		GIT FOR WINDOWS MAC & ANDROID	-
 		見莫邦富				OK
-		15’				
-		DESKTOP TO USB			
-		BUSINESS CARD SCRIPT WRITING	
+		15’				OK
+		DESKTOP TO USB			OK
+		BUSINESS CARD SCRIPT WRITING	OK
 12-23		HELLOW WORK			
 		需要去入管局報備，請問具體离職日期寫哪天。
 		張百慶				-
@@ -3865,6 +3865,7 @@ cons.
 TO-DO LIST
 學到什麼：張適之（第一份工作）採訪準備
 張石
+
 
 
 
