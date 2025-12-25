@@ -1,3 +1,6 @@
+git add .
+git commit -m "LEAVE BEFORE 4:30"
+
 
 ⭐WORD-LIST SHADOWING
 ⭐WORDS MEMORIZATION 3 3 2 1 
@@ -24,39 +27,39 @@
 2	3	4	5	6	7	8
 						
 ----------------------------------------------------------------------
-12-23		HELLOW WORK			
-12-23	17:00	WOODLAND			
+12-23		HELLOW WORK			/
 12-25	5:30PM	WRITER-UNION PARTY		
 12-27		ASK XIA ABOUT A			
 
 
-2025-12-24　	WED（水）にじゅうよっか		
+
+
+2025-12-25　	THU
 
 		----------------------------------	
-NO.1		PS				
-NO.2		BUSINESS CARD			
-NO.3		15’ AT LEAST			
+NO.1		
 		----------------------------------	
 q.d.		SCHEDULE DUPLICATION		
 q.d.		GREETING			
 cons.		
 		----------------------------------	
-		
-		GIT FOR WINDOWS MAC & ANDROID	-
-		見莫邦富				OK
-		15’				OK
-		DESKTOP TO USB			OK
-		BUSINESS CARD SCRIPT WRITING	OK
-12-23		HELLOW WORK			
-		需要去入管局報備，請問具體离職日期寫哪天。
-		張百慶				-
+4:30pm		LEAVE FOR THE PARTY
 		----------------------------------	
-17:00		WOODLAND
-
-
-
-
+DIARY		
 		----------------------------------	
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+
 2025手記：採訪啓發與反思
 
 
@@ -3798,6 +3801,9 @@ q.d.	添編輯部文章（上報 官網 公號）
 29	30	31	
 						
 ----------------------------------------------------------------------
+12-23		HELLOW WORK			/
+12-23	17:00	WOODLAND			OK
+
 
 
 2025-12-22　	MON（月）にじゅうににち		
@@ -3861,12 +3867,28 @@ cons.
 		----------------------------------	
 17:00		WOODLAND			OK
 		----------------------------------	
-2025手記：採訪啓發與反思
-TO-DO LIST
-學到什麼：張適之（第一份工作）採訪準備
-張石
 
+2025-12-24　	WED（水）にじゅうよっか		
 
+		----------------------------------	
+NO.1		15’ AT LEAST			OK
+		----------------------------------	
+q.d.		SCHEDULE DUPLICATION		
+q.d.		GREETING			
+cons.		
+		----------------------------------	
+		
+		GIT FOR WINDOWS MAC & ANDROID	OK
+		見莫邦富				OK
+		15’				OK
+		DESKTOP TO USB			OK
+		BUSINESS CARD SCRIPT WRITING	OK
+12-23		HELLOW WORK			
+		需要去入管局報備，請問具體离職日期寫哪天。
+		張百慶				-
+		----------------------------------	
+DIARY		GET GIT WORK DONE ON MAC WINDOWS AND ANDROID UNTIL 4:00 
+		----------------------------------	
 
 
 
