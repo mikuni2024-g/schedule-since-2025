@@ -1,4 +1,4 @@
-git commit -a -m "DOC FOR IMMIGRATION AGENCY OF JAPAN"
+git commit -a -m "DELETE ONE MONTH OF MOMENTS"
 
 ⭐WORD-LIST SHADOWING
 ⭐WORDS MEMORIZATION 3 3 2 1 
@@ -38,6 +38,9 @@ q.d.		SCHEDULE DUPLICATION		OK
 cons.		CHOOSE A TOPIC WITH [薛]		OK
 		REMEMBER TO DO [GREETING 朱]	OK
 		----------------------------------
+		DELETE ONE MONTH OF MOMENTS	
+		公號				
+		15'				
 		DOWNLOAD APP FOR WIFI		
 		菊浦RESERVATION			
 		
@@ -60,10 +63,7 @@ TO-DO LIST
 張石
 
 司馬健 學會用GPT，不能以專業觀點方式跟權威型人交流
-
-
-
-
+處世：不該證明自己
 
 
 
