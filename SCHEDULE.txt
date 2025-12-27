@@ -1,5 +1,4 @@
-git add .
-git commit -m "15' & hello work"
+git commit -a -m "DOC FOR IMMIGRATION AGENCY OF JAPAN"
 
 ⭐WORD-LIST SHADOWING
 ⭐WORDS MEMORIZATION 3 3 2 1 
@@ -14,7 +13,7 @@ git commit -m "15' & hello work"
 しかし、言い渡された会社は　どれも業績が悪化し　問題を抱えた　取引先ばかりだった
 ----------------------------------------------------------------------
 						
-				26	27*	28
+					27*	28
 						
 29	30	31	22	23	24	25
 
@@ -25,34 +24,27 @@ git commit -m "15' & hello work"
 2	3	4	5	6	7	8
 						
 ----------------------------------------------------------------------
-12-26		HELLO WORK			
 12-27		ASK XIA ABOUT A			
+...		FAST INTERNET PLAN
+01-05		HELLO WORK			
 
 
 
-2025-12-26　	FRI				
-						
-q.d.		GREETING			OK	
+2025-12-27　	SAT				
+		1. 備入管局資料			
+
+q.d.		GREETING			OK
 q.d.		SCHEDULE DUPLICATION		OK
-cons.		UNION _[GREETING 薛&朱]		OK
+cons.		CHOOSE A TOPIC WITH [薛]		OK
+		REMEMBER TO DO [GREETING 朱]	OK
 		----------------------------------
-		15’				
-12-26		HELLO WORK			
+		DOWNLOAD APP FOR WIFI		
 		菊浦RESERVATION			
 		
 		----------------------------------
-DIARY		
-
-
-
+DIARY		INQUIRY CHEN'HAO ABOUT SHAO'PIAOPING
 
 ----------------------------------------------------------------------
-
-
-
-
-
-
 
 
 INDEX
@@ -3802,7 +3794,7 @@ q.d.	添編輯部文章（上報 官網 公號）
 12-23	17:00	WOODLAND			OK
 12-23		HELLOW WORK			/
 12-25	5:30PM	WRITER-UNION PARTY		OK
-
+12-26		HELLO WORK			OK
 
 
 2025-12-22　	MON（月）にじゅうににち		
@@ -3903,6 +3895,20 @@ DIARY		WRITER-UNION PARTY
 
 ----------------------------------------------------------------------
 
+2025-12-26　	FRI				
+						
+q.d.		GREETING			OK
+q.d.		SCHEDULE DUPLICATION		OK
+cons.		UNION _[GREETING 薛&朱]		OK
+		----------------------------------
+		15’				X
+12-26		HELLO WORK			OK
+		菊浦RESERVATION			
+		
+		----------------------------------
+DIARY		CAN'T REPORT UNTIL JAN 5TH BECAUSE OF THE HOLIDAY
+
+----------------------------------------------------------------------
 
 
 
