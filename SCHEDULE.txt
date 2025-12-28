@@ -1,4 +1,4 @@
-git commit -a -m "ALTERNATIVES FOR SHORT VIDEOS"
+git commit -a -m "ADD KUNGFU AS AVAILABLE ALTERNATIVE"
 
 ⭐WORD-LIST SHADOWING
 ⭐WORDS MEMORIZATION 3 3 2 1 
@@ -21,9 +21,9 @@ PC微信小視頻
 PC朋友圈
 PC群消息
 PC遊戲
-坐GPT
 MP3
 讀書
+KUNGFU
 
 
 裁量臨店による三日間の検査は
