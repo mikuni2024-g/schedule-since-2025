@@ -1,4 +1,4 @@
-git commit -a -m "DELETE ONE MONTH OF MOMENTS"
+git commit -a -m "ALTERNATIVES FOR SHORT VIDEOS"
 
 ⭐WORD-LIST SHADOWING
 ⭐WORDS MEMORIZATION 3 3 2 1 
@@ -7,13 +7,32 @@ git commit -a -m "DELETE ONE MONTH OF MOMENTS"
 ⭐VIDEO (1.DICTATION 2.RECITING 3.SHADOWING)
 ⭐BUSINESS JAPANESE
 
+
+躺微信小視頻
+躺朋友圈
+躺群消息
+躺REELS
+躺GPT
+坐微信小視頻
+坐朋友圈
+坐群消息
+坐REELS
+PC微信小視頻
+PC朋友圈
+PC群消息
+PC遊戲
+坐GPT
+MP3
+讀書
+
+
 裁量臨店による三日間の検査は
 時間と人員に限りがあるため
 検査対象となる数十社ほど を無作為に 選出するの　が　原則である
 しかし、言い渡された会社は　どれも業績が悪化し　問題を抱えた　取引先ばかりだった
 ----------------------------------------------------------------------
 						
-					27*	28
+						28
 						
 29	30	31	22	23	24	25
 
@@ -24,29 +43,28 @@ git commit -a -m "DELETE ONE MONTH OF MOMENTS"
 2	3	4	5	6	7	8
 						
 ----------------------------------------------------------------------
-12-27		ASK XIA ABOUT A			
+12-27		ASK XIA ABOUT HANGOUT		OK
 ...		FAST INTERNET PLAN
 01-05		HELLO WORK			
 
 
 
-2025-12-27　	SAT				
+2025-12-28　	SUN				
 		1. 備入管局資料			
 
 q.d.		GREETING			OK
 q.d.		SCHEDULE DUPLICATION		OK
-cons.		CHOOSE A TOPIC WITH [薛]		OK
-		REMEMBER TO DO [GREETING 朱]	OK
+cons.		GREETING [薛 & 朱]		OK
 		----------------------------------
-		DELETE ONE MONTH OF MOMENTS	
-		公號				
 		15'				
+		作協公號				
+		短視頻平替			OK
 		DOWNLOAD APP FOR WIFI		
-		菊浦RESERVATION			
+		菊浦RESERVATION			OK
+		DELETE ONE MONTH OF MOMENTS	
 		
 		----------------------------------
-DIARY		INQUIRY CHEN'HAO ABOUT SHAO'PIAOPING
-
+DIARY		
 ----------------------------------------------------------------------
 
 
@@ -65,8 +83,7 @@ TO-DO LIST
 司馬健 學會用GPT，不能以專業觀點方式跟權威型人交流
 處世：不該證明自己
 
-
-
+被質疑時不解釋   情緒 理性
 
 
 
@@ -3910,7 +3927,26 @@ DIARY		CAN'T REPORT UNTIL JAN 5TH BECAUSE OF THE HOLIDAY
 
 ----------------------------------------------------------------------
 
+2025-12-27　	SAT				
+		1. 備入管局資料			
 
+q.d.		GREETING			OK
+q.d.		SCHEDULE DUPLICATION		OK
+cons.		CHOOSE A TOPIC WITH [薛]		OK
+		REMEMBER TO DO [GREETING 朱]	OK
+		----------------------------------
+		DELETE ONE MONTH OF MOMENTS	OK
+		作協公號				
+		15'				
+		短視頻平替			
+		收音機充電			OK
+		DOWNLOAD APP FOR WIFI		
+		菊浦RESERVATION			
+		
+		----------------------------------
+DIARY		INQUIRY CHEN'HAO ABOUT SHAO'PIAOPING
+		SLEEP AT ABOUT 5:00 BECAUSE OF SHORT VIDEO
+----------------------------------------------------------------------
 
 
 
