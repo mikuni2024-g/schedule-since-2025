@@ -1,38 +1,7 @@
-git commit -a -m "5' OK"
+git commit -a -m "NOTIFICATION OF THE CONTRACTING ORGANIZATION FORM FILLED"
 
-⭐WORD-LIST SHADOWING
-⭐WORDS MEMORIZATION 3 3 2 1 
-⭐TEST & LEARN
-⭐LISTENING COMPREHENSION (1.TEST 2.DICTATION 3.RECITING 4.SHADOWING)
-⭐VIDEO (1.DICTATION 2.RECITING 3.SHADOWING)
-⭐BUSINESS JAPANESE
-
-
-躺微信小視頻
-躺朋友圈
-躺群消息
-躺REELS
-躺GPT
-坐微信小視頻
-坐朋友圈
-坐群消息
-坐REELS
-PC微信小視頻
-PC朋友圈
-PC群消息
-PC遊戲
-MP3
-讀書
-KUNGFU
-
-
-裁量臨店による三日間の検査は
-時間と人員に限りがあるため
-検査対象となる数十社ほど を 無作為に 選出するの　が　原則である
-しかし、言い渡された会社は　どれも業績が悪化し　問題を抱えた　取引先ばかりだった
 ----------------------------------------------------------------------
 						
-						28
 						
 29	30	31	22	23	24	25
 
@@ -43,29 +12,67 @@ KUNGFU
 2	3	4	5	6	7	8
 						
 ----------------------------------------------------------------------
-12-27		ASK XIA ABOUT HANGOUT		OK
 ...		FAST INTERNET PLAN
 01-05		HELLO WORK			
 
+		PURCHASE THE LIGHT BOM
 
+----------------------------------------------------------------------
 
-2025-12-28　	SUN				
-		1. 備入管局資料			
+2025-12-29　	MON				
 
 q.d.		GREETING			OK
 q.d.		SCHEDULE DUPLICATION		OK
-cons.		GREETING [薛 & 朱]		OK
+cons.		WHY MISS GREETING [薛 & 朱]	OK
 		----------------------------------
-		5'				OK
-		作協公號				
-		短視頻平替			OK
-		DOWNLOAD APP FOR WIFI		
-		菊浦RESERVATION			OK
+		作協公號				OK
+備入管局資料	FETCH THE SMARTPHONE		OK
+		SEARCH FOR THE RIGHT WEBSITE	OK
+備入管局資料	核對				OK
+備入管局資料+	FILL THE FORM			OK
+9:00 PM		TAKE PICTURE OF LIGHT BOM	-
+		PURCHASE THE LIGHT		-
+		SUPERMARKET			OK
+備入管局資料+	FILL THE FORM			OK
+WIFI+		WEB CHECK			
+備入管局資料+	投遞				
+WIFI+		WEB CHECK			
+
 		DELETE ONE MONTH OF MOMENTS	
 		
 		----------------------------------
 DIARY		
+		----------------------------------
+
+WIFI+		WEB CHECK			
+備入管局資料+	投遞				
+
+
 ----------------------------------------------------------------------
+
+⭐WORD-LIST SHADOWING
+⭐WORDS MEMORIZATION 3 3 2 1 
+⭐TEST & LEARN
+⭐LISTENING COMPREHENSION (1.TEST 2.DICTATION 3.RECITING 4.SHADOWING)
+⭐VIDEO (1.DICTATION 2.RECITING 3.SHADOWING)
+⭐BUSINESS JAPANESE
+
+
+躺| 	微信小視頻 朋友圈 群消息 REELS GPT
+坐| 	微信小視頻 朋友圈 群消息 REELS
+PC| 	微信小視頻 朋友圈 群消息 遊戲 
+好| 	MP3 讀書 KUNGFU
+
+
+裁量臨店による三日間の検査は
+時間と人員に限りがあるため
+検査対象となる数十社ほど を 無作為に 選出するの　が　原則である
+しかし、言い渡された会社は　どれも業績が悪化し　問題を抱えた　取引先ばかりだった
+----------------------------------------------------------------------
+
+
+
+
 
 
 INDEX
@@ -3803,6 +3810,14 @@ q.d.	添編輯部文章（上報 官網 公號）
 
 ----------------------------------------------------------------------
 						
+
+
+
+
+
+
+
+
 23	24	25/	26	27	28						
 29	30	31	
 						
@@ -3812,6 +3827,7 @@ q.d.	添編輯部文章（上報 官網 公號）
 12-23		HELLOW WORK			/
 12-25	5:30PM	WRITER-UNION PARTY		OK
 12-26		HELLO WORK			OK
+12-27		ASK XIA ABOUT HANGOUT		OK
 
 
 2025-12-22　	MON（月）にじゅうににち		
@@ -3877,9 +3893,7 @@ cons.
 17:00		WOODLAND			OK
 
 ----------------------------------------------------------------------
-
 2025-12-24　	WED（水）にじゅうよっか		
-
 		----------------------------------	
 NO.1		15’ AT LEAST			OK
 		----------------------------------	
@@ -3900,7 +3914,6 @@ cons.
 DIARY		GET GIT WORK DONE ON MAC WINDOWS AND ANDROID UNTIL 4:00 
 
 ----------------------------------------------------------------------
-
 2025-12-25　	THU
 
 q.d.		SCHEDULE DUPLICATION		OK
@@ -3911,9 +3924,7 @@ cons.
 DIARY		WRITER-UNION PARTY
 
 ----------------------------------------------------------------------
-
-2025-12-26　	FRI				
-						
+2025-12-26　	FRI					
 q.d.		GREETING			OK
 q.d.		SCHEDULE DUPLICATION		OK
 cons.		UNION _[GREETING 薛&朱]		OK
@@ -3926,7 +3937,6 @@ cons.		UNION _[GREETING 薛&朱]		OK
 DIARY		CAN'T REPORT UNTIL JAN 5TH BECAUSE OF THE HOLIDAY
 
 ----------------------------------------------------------------------
-
 2025-12-27　	SAT				
 		1. 備入管局資料			
 
@@ -3940,12 +3950,28 @@ cons.		CHOOSE A TOPIC WITH [薛]		OK
 		15'				
 		短視頻平替			
 		收音機充電			OK
-		DOWNLOAD APP FOR WIFI		
+		DOWNLOAD APP FOR WIFI		OK
 		菊浦RESERVATION			
 		
 		----------------------------------
 DIARY		INQUIRY CHEN'HAO ABOUT SHAO'PIAOPING
 		SLEEP AT ABOUT 5:00 BECAUSE OF SHORT VIDEO
+----------------------------------------------------------------------
+2025-12-28　	SUN				
+		1. 備入管局資料			
+q.d.		GREETING			OK
+q.d.		SCHEDULE DUPLICATION		OK
+cons.		GREETING [薛 & 朱]		OK
+		----------------------------------
+		5'				OK
+		作協公號				
+		短視頻平替			OK
+		FOR WIFI			
+		菊浦RESERVATION			OK
+		DELETE ONE MONTH OF MOMENTS	
+		
+		----------------------------------
+DIARY		GPT复盘
 ----------------------------------------------------------------------
 
 
