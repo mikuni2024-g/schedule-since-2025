@@ -1,56 +1,46 @@
-git commit -a -m "JAPANESE MOVIE SUBTITLE TRANSLATED"
-
+git commit -a -m "BEFORE 00:00 GO TO BED"
 ----------------------------------------------------------------------
-						
-						
-29	30	31	22	23	24	25
+					
+	30	31	
+
+			1	2	3	4	
+
+5*	6	7	8	9	10	11	
+
+12	13	14	15	16	17	18
+
+19	20	21	22	23	24	25
 
 26	27	28	29	30	31
 
-						1
-
-2	3	4	5	6	7	8
-						
 ----------------------------------------------------------------------
 ...		FAST INTERNET PLAN
 01-05		HELLO WORK			
 
-		PURCHASE THE LIGHT BOM
 
-----------------------------------------------------------------------
 
-2025-12-29　	MON				
-
-q.d.		GREETING			OK
-q.d.		SCHEDULE DUPLICATION		OK
-cons.		WHY MISS GREETING [薛 & 朱]	OK
-		----------------------------------
-		作協公號				OK
-備入管局資料	FETCH THE SMARTPHONE		OK
-		SEARCH FOR THE RIGHT WEBSITE	OK
-備入管局資料	核對				OK
-備入管局資料+	FILL THE FORM			OK
-9:00 PM		TAKE PICTURE OF LIGHT BOM	-
-		PURCHASE THE LIGHT		-
-		SUPERMARKET			OK
-備入管局資料+	FILL THE FORM			OK
-15’ 		12:10-12:20		
-		DELETE ONE MONTH OF MOMENTS	
-WIFI+		WEB CHECK			
-備入管局資料+	投遞				
-WIFI+		WEB CHECK			
-		
-		----------------------------------
-DIARY		
-		----------------------------------
-
-WIFI+		WEB CHECK			
-備入管局資料+	投遞				
-
-MEMO
 
 
 ----------------------------------------------------------------------
+
+		八段錦				
+		雙搖膀				
+		視頻號訓練			
+
+		⭐WORD-LIST SHADOWING		
+		⭐WORDS MEMORIZATION 3321 	
+		⭐N2 EXAM			
+		⭐LISTENING 			
+		⭐GRAMMAR			
+		⭐VIDEO 			
+		⭐BUSINESS JAPANESE		
+
+
+
+躺| 	微信小視頻 朋友圈 群消息 REELS GPT
+坐| 	微信小視頻 朋友圈 群消息 REELS
+PC| 	微信小視頻 朋友圈 群消息 遊戲 
+桌| 	MP3 讀書 
 
 ⭐WORD-LIST SHADOWING
 ⭐WORDS MEMORIZATION 3 3 2 1 
@@ -58,13 +48,6 @@ MEMO
 ⭐LISTENING COMPREHENSION (1.TEST 2.DICTATION 3.RECITING 4.SHADOWING)
 ⭐VIDEO (1.DICTATION 2.RECITING 3.SHADOWING)
 ⭐BUSINESS JAPANESE
-
-
-躺| 	微信小視頻 朋友圈 群消息 REELS GPT
-坐| 	微信小視頻 朋友圈 群消息 REELS
-PC| 	微信小視頻 朋友圈 群消息 遊戲 
-好| 	MP3 讀書 KUNGFU
-
 
 臨店裁量的三天檢查		裁量臨店による三日間の検査は
 因時間與人員有限		時間と人員に限りがあるため
@@ -3818,13 +3801,6 @@ q.d.	添編輯部文章（上報 官網 公號）
 ----------------------------------------------------------------------
 						
 
-
-
-
-
-
-
-
 23	24	25/	26	27	28						
 29	30	31	
 						
@@ -3835,7 +3811,11 @@ q.d.	添編輯部文章（上報 官網 公號）
 12-25	5:30PM	WRITER-UNION PARTY		OK
 12-26		HELLO WORK			OK
 12-27		ASK XIA ABOUT HANGOUT		OK
+12-29		PURCHASE THE LIGHT BOM		-
 
+
+
+----------------------------------------------------------------------
 
 2025-12-22　	MON（月）にじゅうににち		
 
@@ -3976,10 +3956,90 @@ cons.		GREETING [薛 & 朱]		OK
 		FOR WIFI			
 		菊浦RESERVATION			OK
 		DELETE ONE MONTH OF MOMENTS	
-		
 		----------------------------------
 DIARY		GPT复盘
 ----------------------------------------------------------------------
+2025-12-29　	MON				7/12
+q.d.		GREETING			OK
+q.d.		SCHEDULE DUPLICATION		OK
+cons.		WHY MISS GREETING [薛 & 朱]	OK
+		----------------------------------
+		作協公號				OK
+備入管局資料	FETCH THE SMARTPHONE		OK
+		SEARCH FOR THE RIGHT WEBSITE	OK
+備入管局資料	核對				OK
+備入管局資料	FILL THE FORM			OK
+9:00 PM		TAKE PICTURE OF LIGHT BOM	-
+		PURCHASE THE LIGHT		-
+		SUPERMARKET			OK
+備入管局資料	FILL THE FORM			OK
+15’ 		12:10-12:20			7/12
+		DELETE ONE MONTH OF MOMENTS	OK
+2:00		STOP PLAYING WITH PHONE		OK
+作協公號+	ASK THE TIME FOR SHARING	
+WIFI+		WEB CHECK			
+備入管局資料+	投遞				
+WIFI+		WEB CHECK					
+		----------------------------------
+DIARY		與蔣老師新宿拍視頻
+----------------------------------------------------------------------
+2025-12-30　	TUE				
+q.d.		GREETING			OK
+q.d.		SCHEDULE DUPLICATION		OK
+cons.		WHY MISS GREETING [薛 & 朱]	OK
+		----------------------------------
+1:45-	2:00PM	*WORD-LIST SHADOWING		7/12
+WRITING UNION+	ASK THE TIME FOR SHARING	OK
+8:45-9:00 PM	*WORDS MEMORIZATION 3 3 2 1	10/12
+21:45-	22:00	OFFICIAL VID ACCOUNT TRAINING	OK
+BEFORE 	23:00	DOWNLOAD THE FORM		OK
+		SMARTPHONE IN MAILBOX		OK
+22:45	23:05	SNACK			(23:07)	OK
+23:05	23:20	*BUSINESS JAPANESE		1
+23:25	23:40	HANG CLOTHES & LAUNDRY		OK
+23:45	00:00	*N2 EXAM			
+BEFORE	00:00	GO TO BED			
+----------------------------------------------------------------------
+2025-12-31　	WED
+
+UNION’S ACNT+	PUBLISH				
+WIFI+		WEB CHECK			
+I S AGENCY+	SUMMIT				
+		BARBER				
+		INNER SHIRTS			
+		GRAMMAR				
+		LISTENING 			
+		VIDEO ()			
+
+
+
+
+
+
+
+
+
+
+
+
+DIARY & MEMO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
