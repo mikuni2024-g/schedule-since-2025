@@ -1,10 +1,8 @@
 
 
-git commit -a -m "BEFORE 18:00 -> PURCHASE TOILET PAPER"
+git commit -a -m "reasons-run-git-server-nas"
 ----------------------------------------------------------------------
 					
-		31	
-
 JANUARY			1	2	3	4	
 
 5*	6	7	8	9	10	11	
@@ -42,11 +40,11 @@ MARCH						1
 01-05		HELLO WORK			
 
 
-
+https://www.xda-developers.com/reasons-run-git-server-nas/
 
 
 ----------------------------------------------------------------------
-
+★
 		八段錦				
 		雙搖膀				
 		視頻號訓練			
@@ -2932,7 +2930,7 @@ q.d.		※ 知關換氣並收報攤
 ----------------------------------------------------------------------
 						
 WED		2025-11-26		
-RESPOSIBILIRY-	每日：核對／官網／排報／群發／熄通風／
+RESPONSIBILIRY-	每日：核對／官網／排報／群發／熄通風／
 		不時：公號／頭條／活動採訪／視頻／PS
 		定期：一三五送報／
 		半月：華人百業／今夜乾杯／送报
@@ -4018,6 +4016,7 @@ DIARY		與蔣老師新宿拍視頻
 
 ----------------------------------------------------------------------
 2025-12-30　	TUE				3 5/12
+
 q.d.		GREETING			OK
 q.d.		SCHEDULE DUPLICATION		OK
 cons.		WHY MISS GREETING [薛 & 朱]	OK
@@ -4037,6 +4036,7 @@ BEFORE	00:00	GO TO BED			X
 
 ----------------------------------------------------------------------
 2025-12-31　	WED				3 10/12
+
 11:05-11:20	*WORD-LIST SHADOWING		1
 11:50-	12:00	VID ACCOUNT TRAINING		OK
 
@@ -4077,23 +4077,24 @@ IS AGENCY	SUBMIT
 
 ----------------------------------------------------------------------
 2026-01-01　	THU				.
+
 UNION’S		PUBLISH				OK
 15:57-	16:40	FOOD TIME			OK(16:20)
 16:25-	16:40	/VIDEO 				1
-BEFORE	18:00	PURCHASE TOILET PAPER		
-16:05-	16:20	/BUSINESS JAPANESE		
-		PURCHASE QUILT & PILLOW		
-		/WORDS MEMORIZATION 3321 	
-		THROW AWAY THE WASTE PAPER	
+BEFORE	18:00	PURCHASE TOILET PAPER		OK(17:35)
+16:50-	17:05	/BUSINESS JAPANESE		1
+18:15-	19:15	PURCHASE QUILT & PILLOW		NG(20:00)
+20:45-	21:00	/WORDS MEMORIZATION 3321 	11/12
+BEFORE	22:00	THROW AWAY THE WASTE PAPER	
 		/N2 EXAM			
 WIFI+		WEB CHECK			/
 		八段錦			
-
+		MTS
 
 
 
 DIARY & MEMO
-GET UP LATE SO LATE TO PUBLISH FOR THE WRITERS’ UNION.
+GET UP LATE THEN 52 MINUTES LATER TO PUBLISH FOR THE WRITERS’ UNION.
 
 
 
@@ -4103,27 +4104,20 @@ GET UP LATE SO LATE TO PUBLISH FOR THE WRITERS’ UNION.
 ----------------------------------------------------------------------
 2026-01-02　	FRI				.
 
-
-
-
-
-
-
-
+		WORD-LIST SHADOWING		
+		WORDS MEMORIZATION 3321 	
+		N2 EXAM				
+		N3 LISTENING 			
+		GRAMMAR				
+		VIDEO 				
+		BUSINESS JAPANESE		
 
 
 
 
 ARTICLES FOR MOBANGFU
 PREPARE QUESTIONS FOR KOSHIMA
-
-
-
-
-
-
-
-
+TYKYO GAS ACCOUNT
 
 
 
