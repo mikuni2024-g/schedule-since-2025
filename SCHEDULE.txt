@@ -1,4 +1,6 @@
-git commit -a -m "CALENDAR MODIFIED"
+
+
+git commit -a -m "BEFORE 18:00 -> PURCHASE TOILET PAPER"
 ----------------------------------------------------------------------
 					
 		31	
@@ -70,6 +72,7 @@ PC| 	微信小視頻 朋友圈 群消息 遊戲
 ⭐VIDEO (1.DICTATION 2.RECITING 3.SHADOWING)
 ⭐BUSINESS JAPANESE
 
+15:21
 臨店裁量的三天檢查		裁量臨店による三日間の検査は
 因時間與人員有限		時間と人員に限りがあるため
 作為檢查對象的數十家	検査対象となる数十社ほど
@@ -445,7 +448,7 @@ August 2025
 	13:00到飯店拍小視頻		OK
 	給小嶋送報 展會手册 中日报名單	OK
 	12:15出發			X
-	SUDDENTLY ASKED		反問 + 做了相关准備
+	SUDDENLY ASKED		反問 + 做了相关准備
 	分割時間			OK
 	mp3改格式		-
 2025-08-05------------------------------------
@@ -2318,9 +2321,10 @@ November 2025
 						
 17'	18	19'	20	21'	22	23（吳）
 						
-24'（鍾）	25	'局外人	27	截版'	29	30
+24'（鍾）	25	'局外人	27	截版'	29	
 
-----------------------------------------------------------------------
+30
+
 
 01/11	[拍照試機] 練馬区文化センター（2:00　2:30-4:30）	OK
 	官網更新：電子刊				OK
@@ -3901,6 +3905,7 @@ cons.
 17:00		WOODLAND			OK
 
 ----------------------------------------------------------------------
+
 2025-12-24　	WED（水）にじゅうよっか		
 		----------------------------------	
 NO.1		15’ AT LEAST			OK
@@ -3922,6 +3927,7 @@ cons.
 DIARY		GET GIT WORK DONE ON MAC WINDOWS AND ANDROID UNTIL 4:00 
 
 ----------------------------------------------------------------------
+
 2025-12-25　	THU
 
 q.d.		SCHEDULE DUPLICATION		OK
@@ -3932,6 +3938,7 @@ cons.
 DIARY		WRITER-UNION PARTY
 
 ----------------------------------------------------------------------
+
 2025-12-26　	FRI					
 q.d.		GREETING			OK
 q.d.		SCHEDULE DUPLICATION		OK
@@ -3945,6 +3952,7 @@ cons.		UNION _[GREETING 薛&朱]		OK
 DIARY		CAN'T REPORT UNTIL JAN 5TH BECAUSE OF THE HOLIDAY
 
 ----------------------------------------------------------------------
+
 2025-12-27　	SAT				
 		1. 備入管局資料			
 
@@ -3964,7 +3972,9 @@ cons.		CHOOSE A TOPIC WITH [薛]		OK
 		----------------------------------
 DIARY		INQUIRY CHEN'HAO ABOUT SHAO'PIAOPING
 		SLEEP AT ABOUT 5:00 BECAUSE OF SHORT VIDEO
+
 ----------------------------------------------------------------------
+
 2025-12-28　	SUN				
 		1. 備入管局資料			
 q.d.		GREETING			OK
@@ -3979,7 +3989,9 @@ cons.		GREETING [薛 & 朱]		OK
 		DELETE ONE MONTH OF MOMENTS	
 		----------------------------------
 DIARY		GPT复盘
+
 ----------------------------------------------------------------------
+
 2025-12-29　	MON				7/12
 q.d.		GREETING			OK
 q.d.		SCHEDULE DUPLICATION		OK
@@ -4003,6 +4015,7 @@ WIFI+		WEB CHECK
 WIFI+		WEB CHECK					
 		----------------------------------
 DIARY		與蔣老師新宿拍視頻
+
 ----------------------------------------------------------------------
 2025-12-30　	TUE				3 5/12
 q.d.		GREETING			OK
@@ -4021,40 +4034,88 @@ BEFORE 	23:00	DOWNLOAD THE FORM		OK
 23:45	00:00	*N2 EXAM			1
 BEFORE	00:00	GO TO BED			X
 01:06	01:20	PLANNING			OK
+
 ----------------------------------------------------------------------
-2025-12-31　	WED				
+2025-12-31　	WED				3 10/12
 11:05-11:20	*WORD-LIST SHADOWING		1
+11:50-	12:00	VID ACCOUNT TRAINING		OK
+
 TO SMART PHONE:
-WIFI+		WEB CHECK			
-IS AGENCY+	PRINT UP			
-		BARBER				
-		INNER SHIRTS			
-	
-UNION’S+	PUBLISH				
+		BASE LAYER			OK
+IS AGENCY+	PRINT UP			OK
+		BARBER				OK
+BEFORE 7:00PM	DINNER				/
+		*GRAMMAR			1
+BEFORE 7:30PM	DINNER				OK
+UNION’S		PUBLISH				OK
+		TRAIN				10/12
+		ALMANAC				OK
+11:25-	11:40	*N4 LISTENING 			1
 
-		*N3 LISTENING 			
-		*GRAMMAR			
-		*VIDEO 				
-		*BUSINESS JAPANESE		
-		*WORDS MEMORIZATION 3321 	
-		*N2 EXAM			
-
-
-
+DIARY & MEMO
+1. GO TO THE IMMIGRATION SERVICE AGENCY BUT NO ONE IS THERE.
+2. GET MY HAIR CUT IN TAKADANOBABA
 
 
+JANUARY 2026
+----------------------------------------------------------------------
+
+			1	2	3	4	
+
+5*	6	7	8	9	10	11	
+
+12	13	14	15	16	17	18
+
+19	20	21	22	23	24	25
+
+26	27	28	29	30	31
 
 
+...		FAST INTERNET PLAN
+01-05		HELLO WORK
+IS AGENCY	SUBMIT			
+
+----------------------------------------------------------------------
+2026-01-01　	THU				.
+UNION’S		PUBLISH				OK
+15:57-	16:40	FOOD TIME			OK(16:20)
+16:25-	16:40	/VIDEO 				1
+BEFORE	18:00	PURCHASE TOILET PAPER		
+16:05-	16:20	/BUSINESS JAPANESE		
+		PURCHASE QUILT & PILLOW		
+		/WORDS MEMORIZATION 3321 	
+		THROW AWAY THE WASTE PAPER	
+		/N2 EXAM			
+WIFI+		WEB CHECK			/
+		八段錦			
 
 
 
 
 DIARY & MEMO
+GET UP LATE SO LATE TO PUBLISH FOR THE WRITERS’ UNION.
 
 
 
 
 
+
+----------------------------------------------------------------------
+2026-01-02　	FRI				.
+
+
+
+
+
+
+
+
+
+
+
+
+ARTICLES FOR MOBANGFU
+PREPARE QUESTIONS FOR KOSHIMA
 
 
 
