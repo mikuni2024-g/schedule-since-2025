@@ -1,7 +1,7 @@
-git commit -a -m "00:10-00:20 BUSINESS JAPANESE 8/12"
+git commit -a -m "18:00 SECOND-HAND SHOP"
 ----------------------------------------------------------------------
 					
-JANUARY			1	★	3	4	
+JANUARY			1	2	★	4	
 
 5*	6	7	8	9	10	11	
 
@@ -4120,9 +4120,6 @@ GET UP LATE THEN 52 MINUTES LATER TO PUBLISH FOR THE WRITERS’ UNION.
 16:45-	17:00	WORD-LIST SHADOWING		/
 22:45-	23:00	WORD-LIST SHADOWING		1
 00:10-	00:20	BUSINESS JAPANESE		8/12
-
-
-
 DIARY & MEMO
 [15:41]	明顕就是故意選出來的
 [15:41]	あきらかに　いとてきに　えらばれてますね
@@ -4141,27 +4138,39 @@ DIARY & MEMO
 
 ----------------------------------------------------------------------
 2026-01-03　	SAT				.
-
-		WORD-LIST SHADOWING		
-		WORDS MEMORIZATION 3321 	
-		N3 LISTENING 			
+						
+13:45	14:00	WORD-LIST SHADOWING		1
+14:02	15:00	REST				OK
+15:25	15:40	BUSINESS JAPANESE		1
+	16:00	SHORTEN THE DESK & CHAIR	OK(15:50)
+16:05		WORDS MEMORIZATION 3321 	1
+		BUSINESS JAPANESE		1
+	17:00	N3 LISTENING 			1
+	18:00	SECOND-HAND SHOP			
+		BUSINESS JAPANESE		
 		N2 EXAM				
+		BUSINESS JAPANESE		
 		VIDEO 				
+		BUSINESS JAPANESE		
 		GRAMMAR				
 		BUSINESS JAPANESE		
 
 
 
+BREAKFAST: MILK BREAD
+LUNCH: 酱焖茄子
+SUPPER: SPAGHETTI 
+
+
+BEFORE 0:00	LIGHT OFF
 
 
 
 
 
-
-
-
-
-
+TO PURCHASE:
+LETTUCE
+GARLIC
 
 ARTICLES FOR MOBANGFU
 PREPARE QUESTIONS FOR KOSHIMA
@@ -4176,7 +4185,8 @@ TYKYO GAS ACCOUNT
 思考
 比王童
 
-
+----------------------------------------------------------------------
+2026-01-03　	SAT
 
 
 
