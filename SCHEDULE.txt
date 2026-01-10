@@ -1,4 +1,4 @@
-git commit -a -m "------------MINIMUM 1/12 11:05 11:20… SPACE MODIFIED"
+git commit -a -m "2026-01-10　SAT"
 
 
 
@@ -4660,7 +4660,7 @@ DIARY & MEMO
 12:05	12:20	…				…
 12:25	12:40	WORDS MEMORIZATION 3321 	1
 12:45	13:00	DRAMA				1
-13:05	13:20	
+13:05	13:20	SCHEDULING			OK
 13:25	13:40	
 13:45	14:00	
 14:05	14:20	
@@ -4696,7 +4696,8 @@ DIARY & MEMO
 		N4/N5 READING COMPREHENSION	
 		BUSINESS JAPANESE
 
-
+----------------------------------------------------------------------
+2026-01-10	SAT 	とおか　ど		
 
 
 
