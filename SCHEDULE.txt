@@ -1,4 +1,4 @@
-git commit -a -m "2026-01-10　SAT"
+git commit -a -m "15:05 16:00 BREAK"
 
 
 
@@ -4697,7 +4697,48 @@ DIARY & MEMO
 		BUSINESS JAPANESE
 
 ----------------------------------------------------------------------
-2026-01-10	SAT 	とおか　ど		
+2026-01-10	SAT 	とおか　土曜		
+
+JAPANESE	MINIMUM				1/12
+13:00	15:00	NO WECHAT			
+13:05	13:20	GRAMMAR				1
+13:25	13:40	BJT LISTENING			1
+13:45	14:00	WORDS MEMORIZATION 3321		1
+14:05	14:20	SHADOWING			1
+14:25	14:40	BJT READING			1
+14:45	15:00	BJT LISTENING			
+
+15:05	16:00	BREAK				-
+		GIT PUSH			
+
+16:45	17:00			
+17:05	17:20					
+17:25	17:40	
+17:45	18:00					
+18:05	18:20					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
