@@ -4762,38 +4762,41 @@ FREE(1H)	20:30	21:30	MTS &
 ----------------------------------------------------------------------
 2026-01-12	MON 	じゅうににち　月曜日	
 
-JAPANESE	hypnopompic	MORNING MINIMUM			
-		08:25	09:25	STRECH / NO VIDEO & MTS		
-				RICE PREPARATION FOR LUNCH*	
-TRANSIT		09:25	10:00	TO LIBRARY			
-		--------------------------------------------------
-OFFICIAL ACNT	10:00	10:40	FOR OFFICIAL ACCOUNT RENEW	
-		--------------------------------------------------
-TRANSIT		10:40	11:00	TO HOME				
-CHORES		11:00	12:00	EGG PLANT / WITH JAP RADIO	
-LUNCH		12:00	13:00					
-		--------------------------------------------------
-		13:05	13:20	GRAMMAR				
-		13:25	13:40	BJT PART 1			
-BJT(2H)		13:45	14:00	WORDS MEMORIZATION 3321		
-		14:05	14:20	WORDS SHADOWING			
-		14:25	14:40	BJT PART 2			
-		14:45	15:00	BJT PART 3			
-		--------------------------------------------------
-BREAK		15:00	16:00	STRECH & BATH			
-TRANSIT		16:00	16:25	TO LIBRARY			
-		--------------------------------------------------
-		16:25	16:40	DOWNLOAD			
-		16:45	17:00	...				
-JAVA(1.5H)	17:05	17:20					
-		17:25	17:40	Google sheets			
-		17:45	18:00	...				
- 	 	--------------------------------------------------
-DINNER		18:00	19:00					
-MARKET(1.5H)	19:00	20:30					
-FREE TIME	20:30	21:30	MTS				
-FOR BED		21:30	22:30	GET IN THE MOOD FOR BEDTIME	
-		--------------------------------------------------
+JAP	hypnopompic	MORNING MINIMUM			x
+	08:25	09:25	STRECH / NO VIDEO & MTS		9:40
+			RICE PREPARATION FOR LUNCH*	OK
+TRANSIT	09:25	10:00	TO LIBRARY			10:22
+	--------------------------------------------------
+OFFICL	10:00	10:40	FOR OFFICIAL ACCOUNT RENEW	OK
+			MODIFY ABOUT PAN'CHENG		OK	
+			ADD WU'ZHIMING			OK
+			ADD ZHU'HUI			OK
+	--------------------------------------------------
+TRANSIT	10:40	11:00	TO HOME				-
+CHORES	11:00	12:00	EGG PLANT / WITH JAP RADIO	
+LUNCH	12:00	13:00					OK
+	--------------------------------------------------
+	13:05	13:20	WORDS SHADOWING			1
+	13:25	13:40	BJT PART 1			1
+BJT(2H)	13:45	14:00	WORDS MEMORIZATION 3321		1
+	14:05	14:20	GRAMMAR				1
+	14:25	14:40	BJT PART 2			10/12
+	14:45	15:00	BJT PART 3			1
+	--------------------------------------------------
+BREAK	15:00	16:00	STRECH & BATH			
+TRANSIT	16:00	16:25	TO LIBRARY			
+	--------------------------------------------------
+	16:25	16:40	DOWNLOAD			OK
+	16:45	17:00					
+JAVA	17:05	17:20					
+(1.5H)	17:25	17:40					
+	17:45	18:00					
+  	--------------------------------------------------
+DINNER	18:00	19:00					
+MARKET	19:00	20:30					
+FREE 	20:30	21:30	MTS				
+FOR BED	21:30	22:30	GET IN THE MOOD FOR BEDTIME	
+	--------------------------------------------------
 
 
 
