@@ -1,4 +1,4 @@
-git commit -a -m "13:25 13:40 BJT PART 1"
+git commit -a -m "14:45 15:00 BJT PART 3 -"
 
 
 ----------------------------------------------------------------------
@@ -4858,11 +4858,13 @@ ENGLISH CLASS
 LUNCH	12:00	13:00					x
 	--------------------------------------------------
 	13:05	13:20	WORDS SHADOWING			7/12
-	13:25	13:40	BJT PART 1			
-BJT	13:45	14:00	WORDS MEMORIZATION 3321		
-(2H)	14:05	14:20	GRAMMAR				
-	14:25	14:40	BJT PART 2			
-	14:45	15:00	BJT PART 3			
+	13:25	13:40	BJT PART 1			10/12
+BJT	13:45	14:00	WORDS MEMORIZATION 3321		-
+	13:45	14:00	WIKIPEDIA(HONORIFIC SPEECH)	1
+(2H)	14:05	14:20	GRAMMAR				10/12
+	14:25	14:40	BJT PART 2			1
+	14:45	15:00	BJT PART 2			1
+	14:45	15:00	BJT PART 3			-
 	--------------------------------------------------
 BREAK	15:00	16:00	STRECH & BATH			
 TRANSIT	16:00	16:25	TO LIBRARY			
