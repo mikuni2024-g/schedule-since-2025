@@ -1,4 +1,4 @@
-git commit -a -m "16:45 17:00 QUESTION #1"
+git commit -a -m "BREAK	15:00 16:00 STRECH & BATH -"
 
 
 ----------------------------------------------------------------------
@@ -4550,6 +4550,7 @@ LB.x	MEANS	THE LIBRARY IS CLOSED
 
 TYKYO GAS ACCOUNT		
 QUESTIONS FOR KOSHIMA		
+
 ----------------------------------------------------------------------
 2026-01-01　	THU				3 11/12
 
@@ -4851,7 +4852,6 @@ DIARY & MEMO
 DOCUMENTS BACK TO FORMER COMPANY.
 ENGLISH CLASS
 
-
 ----------------------------------------------------------------------
 2026-01-17	SAT 			
 
@@ -4881,8 +4881,40 @@ FREE 	20:30	21:30	MTS
 FOR BED	21:30	22:30	GET IN THE MOOD FOR BEDTIME	
 			JAPANESE MINIMUM		
 
+----------------------------------------------------------------------
+2026-01-18	SUN
 
+DIARY & MEMO
+自行車往返高小飛處
 
+----------------------------------------------------------------------
+2026-01-17	SAT 			
+
+LUNCH	12:00	13:00					x
+	--------------------------------------------------
+	13:05	13:20	WORDS SHADOWING			1
+	13:25	13:40	BJT PART 1			1
+BJT	13:45	14:00	WORDS MEMORIZATION 3321		10/12
+	13:45	14:00	WIKIPEDIA(HONORIFIC SPEECH)	2
+(2H)	14:05	14:20	GRAMMAR				-
+	14:25	14:40	BJT PART 2			-
+	14:45	15:00	BJT PART 2			-
+	14:45	15:00	BJT PART 3			-
+	--------------------------------------------------
+BREAK	15:00	16:00	STRECH & BATH			-
+TRANSIT	16:00	16:25	TO LIBRARY			
+	--------------------------------------------------
+	16:25	16:40					
+	16:45	17:00	QUESTION #1			
+JAVA	17:05	17:20	
+(1.5H)	17:25	17:40	
+	17:45	18:00				
+  	--------------------------------------------------
+DINNER	18:00	19:00					
+MARKET	19:00	20:30					
+FREE 	20:30	21:30	MTS				
+FOR BED	21:30	22:30	GET IN THE MOOD FOR BEDTIME	
+			JAPANESE MINIMUM		
 
 
 
