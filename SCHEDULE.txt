@@ -1,4 +1,4 @@
-git commit -a -m "14:45 15:00 BJT PART 3 -"
+git commit -a -m "16:45 17:00 QUESTION #1"
 
 
 ----------------------------------------------------------------------
@@ -4866,15 +4866,14 @@ BJT	13:45	14:00	WORDS MEMORIZATION 3321		-
 	14:45	15:00	BJT PART 2			1
 	14:45	15:00	BJT PART 3			-
 	--------------------------------------------------
-BREAK	15:00	16:00	STRECH & BATH			
-TRANSIT	16:00	16:25	TO LIBRARY			
+BREAK	15:00	16:00	STRECH & BATH			-
+TRANSIT	16:00	16:25	TO LIBRARY			-
 	--------------------------------------------------
-	16:25	16:40	TEST STRATEGIES FOR QUESTION #1	
-			CREATE A JAVA FILE		
-	16:45	17:00	CREATE A JAVA FILE		
+	16:25	16:40					-
+	16:45	17:00	QUESTION #1			
 JAVA	17:05	17:20	
 (1.5H)	17:25	17:40	
-	17:45	18:00	QUESTION #1			
+	17:45	18:00				
   	--------------------------------------------------
 DINNER	18:00	19:00					
 MARKET	19:00	20:30					
