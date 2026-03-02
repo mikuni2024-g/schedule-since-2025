@@ -42,23 +42,3 @@ https://www.facebook.com/reel/1217262403937185/?s=yWDuG2&fs=e
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
