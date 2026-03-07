@@ -1,6 +1,6 @@
 
 
-
+https://www.khb-tv.co.jp/news/16399316
 
 
 
